@@ -15,22 +15,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hungdev/react-native-instagram-login.git"
+    "url": "git+https://github.com/Moraphelious/react-native-instagram-login.git"
   },
   "keywords": [
     "instagram",
     "login",
     "auth"
   ],
-  "author": "hung vu",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hungdev/react-native-instagram-login/issues"
+    "url": "https://github.com/Moraphelious/react-native-instagram-login/issues"
   },
   "homepage": "https://github.com/hungdev/react-native-instagram-login#readme",
   "dependencies": {
-    "qs": "6.9.4",
+    "qs": "^6.9.4",
     "react-native-webview": "^11.0.0",
-    "axios": "^0.19.2"
+    "axios": "^0.21.0"
   }
 }
